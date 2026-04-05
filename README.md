@@ -1,4 +1,4 @@
-# Finance Data Processing Backend
+# Finance Data Processing and Access Control Backend
 
 A logically structured and efficient backend for a finance dashboard system, allowing different user roles to interact with financial records and overview aggregations safely. Built with **Node.js, Express, TypeScript, Zod,** and **Prisma ORM (SQLite)**.
 
